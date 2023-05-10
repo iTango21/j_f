@@ -1,0 +1,3359 @@
+{
+    "results": [
+        {
+            "id": "125388",
+            "npi": "1306298872",
+            "type": "Social Worker",
+            "name": {
+                "first": "Theresa",
+                "middle": "M.",
+                "last": "Briggs",
+                "suffix": "",
+                "cred": "MSW, LCSW",
+                "fullName": "Theresa M. Briggs"
+            },
+            "gender": "F",
+            "genderName": "Female",
+            "photo": "https://www.healthpartners.com/content/dam/brand-identity/photography/headshots/b/briggs-theresa-13517-125388.jpg/jcr:content/renditions/briggs-theresa-13517-240x240-125388.png",
+            "newpat": true,
+            "lat": 45.302,
+            "lng": -92.36628,
+            "review": {
+                "id": "125388",
+                "averageRating": 4.907937,
+                "ratingCount": 30,
+                "reviews": []
+            },
+            "distance": 1.3,
+            "rnd": 0,
+            "primaryClinicCityState": "Clear Lake, WI",
+            "numberOfAssociatedLocations": 3,
+            "languages": [
+                "English",
+                "Spanish"
+            ],
+            "expertises": [
+                "Mental & Behavioral Health",
+                "Mental Health",
+                "Social Workers"
+            ],
+            "specialties": [
+                "Mental Health"
+            ],
+            "minisites": [],
+            "clinicAssociations": [
+                {
+                    "id": "20981",
+                    "personalPhone": null,
+                    "acceptingNewPatients": true,
+                    "practicingSpecialty": "Mental Health",
+                    "lat": 45.302,
+                    "lng": -92.36628,
+                    "distance": null
+                },
+                {
+                    "id": "103",
+                    "personalPhone": null,
+                    "acceptingNewPatients": true,
+                    "practicingSpecialty": "Mental Health",
+                    "lat": 45.25132,
+                    "lng": -92.26985,
+                    "distance": null
+                },
+                {
+                    "id": "13318",
+                    "personalPhone": null,
+                    "acceptingNewPatients": true,
+                    "practicingSpecialty": "Mental Health",
+                    "lat": 45.39505,
+                    "lng": -92.15026,
+                    "distance": null
+                }
+            ]
+        },
+        {
+            "id": "104579",
+            "npi": "1952497059",
+            "type": "Physical Therapist",
+            "name": {
+                "first": "Wendy",
+                "middle": "R.",
+                "last": "Campion",
+                "suffix": "",
+                "cred": "PT",
+                "fullName": "Wendy R. Campion"
+            },
+            "gender": "F",
+            "genderName": "Female",
+            "photo": "https://www.healthpartners.com/content/dam/brand-identity/photography/headshots/c/campion-wendy-16303-104579.jpg/jcr:content/renditions/campion-wendy-16303-240x240-104579.png",
+            "newpat": true,
+            "lat": 45.31332,
+            "lng": -92.36199,
+            "distance": 1.3,
+            "rnd": 0,
+            "primaryClinicCityState": "Clear Lake, WI",
+            "numberOfAssociatedLocations": 4,
+            "languages": [
+                "English"
+            ],
+            "expertises": [
+                "Degenerative Disc Disease",
+                "Disc Herniation",
+                "Knee Ligament Injury",
+                "Rotator Cuff Tear",
+                "Trigger Finger Treatment",
+                "Return to Throwing",
+                "Neck and Back Care",
+                "Physical Therapy",
+                "Rehabilitation Therapy",
+                "Vestibular Therapy",
+                "Ankle Care",
+                "Elbow Care",
+                "Foot Care",
+                "Foot and Ankle Care",
+                "Hand Care",
+                "Hip Care",
+                "Knee Care",
+                "Shoulder Care",
+                "Wrist and Hand Care"
+            ],
+            "specialties": [
+                "Physical Therapy"
+            ],
+            "minisites": [],
+            "clinicAssociations": [
+                {
+                    "id": "31418",
+                    "personalPhone": null,
+                    "acceptingNewPatients": true,
+                    "practicingSpecialty": "Physical Therapy",
+                    "lat": 45.31332,
+                    "lng": -92.36199,
+                    "distance": null
+                },
+                {
+                    "id": "102",
+                    "personalPhone": null,
+                    "acceptingNewPatients": false,
+                    "practicingSpecialty": "Physical Therapy",
+                    "lat": 45.29603,
+                    "lng": -92.36044,
+                    "distance": null
+                },
+                {
+                    "id": "103",
+                    "personalPhone": null,
+                    "acceptingNewPatients": true,
+                    "practicingSpecialty": "Physical Therapy",
+                    "lat": 45.25132,
+                    "lng": -92.26985,
+                    "distance": null
+                },
+                {
+                    "id": "16189",
+                    "personalPhone": null,
+                    "acceptingNewPatients": true,
+                    "practicingSpecialty": "Physical Therapy",
+                    "lat": 45.57608,
+                    "lng": -92.48873,
+                    "distance": null
+                }
+            ]
+        },
+        {
+            "id": "220199",
+            "npi": "1629575394",
+            "type": "Doctor",
+            "name": {
+                "first": "Cody",
+                "middle": "J.",
+                "last": "Howe",
+                "suffix": "",
+                "cred": "DO",
+                "fullName": "Cody J. Howe"
+            },
+            "gender": "M",
+            "genderName": "Male",
+            "photo": "https://www.healthpartners.com/content/dam/brand-identity/photography/headshots/h/howe-cody-2093-220199.jpg/jcr:content/renditions/howe-cody-2093-240x240-220199.png",
+            "newpat": true,
+            "lat": 45.29603,
+            "lng": -92.36044,
+            "review": {
+                "id": "220199",
+                "averageRating": 4.704034,
+                "ratingCount": 182,
+                "reviews": []
+            },
+            "distance": 1.3,
+            "rnd": 0,
+            "primaryClinicCityState": "Clear Lake, WI",
+            "numberOfAssociatedLocations": 2,
+            "languages": [
+                "English"
+            ],
+            "expertises": [
+                "Primary Care - Family Medicine",
+                "Primary Care - Kid's Health",
+                "Primary Care - Men's Health",
+                "Primary Care - Mental Health",
+                "Primary Care",
+                "Primary Care - Skin Health",
+                "Primary Care - Women's Health"
+            ],
+            "specialties": [
+                "Family Medicine"
+            ],
+            "minisites": [],
+            "guidedShopping": {
+                "trigger": "EDC_PRIMARY,EDC_WOMHLTH",
+                "practitionerIncludedInGseResults": false,
+                "scheduleNow": true,
+                "scheduleNowUrl": "/care/appointments/find-care?pid=220199",
+                "expertise_url": "/care/find/doctors"
+            },
+            "clinicAssociations": [
+                {
+                    "id": "102",
+                    "personalPhone": null,
+                    "acceptingNewPatients": true,
+                    "practicingSpecialty": "Family Medicine",
+                    "lat": 45.29603,
+                    "lng": -92.36044,
+                    "distance": null
+                },
+                {
+                    "id": "103",
+                    "personalPhone": null,
+                    "acceptingNewPatients": true,
+                    "practicingSpecialty": "Family Medicine",
+                    "lat": 45.25132,
+                    "lng": -92.26985,
+                    "distance": null
+                }
+            ]
+        },
+        {
+            "id": "186517",
+            "npi": "1770134892",
+            "type": "Nurse Practitioner",
+            "name": {
+                "first": "Jolleen",
+                "middle": "M.",
+                "last": "Nichols",
+                "suffix": "",
+                "cred": "DNP-AGPC",
+                "fullName": "Jolleen M. Nichols"
+            },
+            "gender": "F",
+            "genderName": "Female",
+            "photo": "https://www.healthpartners.com/content/dam/brand-identity/photography/headshots/n/nichols-jolleen-8972-186517.jpg/jcr:content/renditions/nichols-jolleen-8972-240x240-186517.png",
+            "newpat": true,
+            "lat": 45.25132,
+            "lng": -92.26985,
+            "review": {
+                "id": "186517",
+                "averageRating": 4.748413,
+                "ratingCount": 152,
+                "reviews": []
+            },
+            "distance": 1.3,
+            "rnd": 0,
+            "primaryClinicCityState": "Clear Lake, WI",
+            "numberOfAssociatedLocations": 2,
+            "languages": [
+                "English"
+            ],
+            "expertises": [
+                "Primary Care - Internal Medicine",
+                "Primary Care - Men's Health",
+                "Primary Care - Nurse Practitioners",
+                "Primary Care",
+                "Primary Care - Skin Health",
+                "Primary Care - Women's Health",
+                "Adult Medicine"
+            ],
+            "specialties": [
+                "Adult Medicine"
+            ],
+            "minisites": [],
+            "guidedShopping": {
+                "trigger": "EDC_PRIMARY,EDC_WOMHLTH",
+                "practitionerIncludedInGseResults": false,
+                "scheduleNow": true,
+                "scheduleNowUrl": "/care/appointments/find-care?pid=186517",
+                "expertise_url": "/care/find/doctors"
+            },
+            "clinicAssociations": [
+                {
+                    "id": "103",
+                    "personalPhone": null,
+                    "acceptingNewPatients": true,
+                    "practicingSpecialty": "Adult Medicine",
+                    "lat": 45.25132,
+                    "lng": -92.26985,
+                    "distance": null
+                },
+                {
+                    "id": "102",
+                    "personalPhone": null,
+                    "acceptingNewPatients": true,
+                    "practicingSpecialty": "Adult Medicine",
+                    "lat": 45.29603,
+                    "lng": -92.36044,
+                    "distance": null
+                }
+            ]
+        },
+        {
+            "id": "110137",
+            "npi": "1407293616",
+            "type": "Physical Therapist",
+            "name": {
+                "first": "Nathan",
+                "middle": "M.",
+                "last": "Olson",
+                "suffix": "",
+                "cred": "PT, DPT",
+                "fullName": "Nathan M. Olson"
+            },
+            "gender": "M",
+            "genderName": "Male",
+            "photo": "https://www.healthpartners.com/content/dam/brand-identity/photography/headshots/o/olson-nathan-0390-110137.jpg/jcr:content/renditions/olson-nathan-0390-240x240-110137.png",
+            "newpat": true,
+            "lat": 45.31332,
+            "lng": -92.36199,
+            "distance": 1.3,
+            "rnd": 0,
+            "primaryClinicCityState": "Clear Lake, WI",
+            "numberOfAssociatedLocations": 3,
+            "languages": [
+                "English"
+            ],
+            "expertises": [
+                "Degenerative Disc Disease",
+                "Disc Herniation",
+                "Knee Ligament Injury",
+                "Rotator Cuff Tear",
+                "Trigger Finger Treatment",
+                "Cycling Program",
+                "Running Program",
+                "Return to Soccer",
+                "Neck and Back Care",
+                "Physical Therapy",
+                "Rehabilitation Therapy",
+                "Vestibular Therapy",
+                "Ankle Care",
+                "Elbow Care",
+                "Foot Care",
+                "Foot and Ankle Care",
+                "Hand Care",
+                "Hip Care",
+                "Knee Care",
+                "Shoulder Care",
+                "Wrist and Hand Care"
+            ],
+            "specialties": [
+                "Physical Therapy"
+            ],
+            "minisites": [],
+            "clinicAssociations": [
+                {
+                    "id": "31418",
+                    "personalPhone": null,
+                    "acceptingNewPatients": true,
+                    "practicingSpecialty": "Physical Therapy",
+                    "lat": 45.31332,
+                    "lng": -92.36199,
+                    "distance": null
+                },
+                {
+                    "id": "102",
+                    "personalPhone": null,
+                    "acceptingNewPatients": false,
+                    "practicingSpecialty": "Physical Therapy",
+                    "lat": 45.29603,
+                    "lng": -92.36044,
+                    "distance": null
+                },
+                {
+                    "id": "103",
+                    "personalPhone": null,
+                    "acceptingNewPatients": true,
+                    "practicingSpecialty": "Physical Therapy",
+                    "lat": 45.25132,
+                    "lng": -92.26985,
+                    "distance": null
+                }
+            ]
+        },
+        {
+            "id": "32711",
+            "npi": "1609852102",
+            "type": "Doctor",
+            "name": {
+                "first": "Beth",
+                "middle": "A.",
+                "last": "Adams",
+                "suffix": "",
+                "cred": "MD",
+                "fullName": "Beth A. Adams"
+            },
+            "gender": "F",
+            "genderName": "Female",
+            "newpat": false,
+            "review": {
+                "id": "32711",
+                "averageRating": 4.672535,
+                "ratingCount": 33,
+                "reviews": []
+            },
+            "distance": 8.3,
+            "rnd": 0,
+            "primaryClinicCityState": "Amery, WI",
+            "numberOfAssociatedLocations": 7,
+            "languages": [
+                "English"
+            ],
+            "expertises": [
+                "Primary Care - Family Medicine",
+                "Primary Care - Kid's Health",
+                "Primary Care - Men's Health",
+                "Primary Care - Mental Health",
+                "Primary Care",
+                "Primary Care - Skin Health",
+                "Primary Care - Women's Health",
+                "Urgent Care"
+            ],
+            "specialties": [
+                "Family Medicine",
+                "Urgent Care"
+            ],
+            "minisites": [],
+            "clinicAssociations": [
+                {
+                    "id": "102",
+                    "personalPhone": null,
+                    "acceptingNewPatients": false,
+                    "practicingSpecialty": "Family Medicine",
+                    "lat": 45.29603,
+                    "lng": -92.36044,
+                    "distance": null
+                },
+                {
+                    "id": "4712",
+                    "personalPhone": null,
+                    "acceptingNewPatients": false,
+                    "practicingSpecialty": "Urgent Care",
+                    "lat": 44.72908,
+                    "lng": -93.22154,
+                    "distance": null
+                },
+                {
+                    "id": "15890",
+                    "personalPhone": null,
+                    "acceptingNewPatients": false,
+                    "practicingSpecialty": "Urgent Care",
+                    "lat": 45.05965,
+                    "lng": -93.15124,
+                    "distance": null
+                },
+                {
+                    "id": "20135",
+                    "personalPhone": null,
+                    "acceptingNewPatients": false,
+                    "practicingSpecialty": "Urgent Care",
+                    "lat": 44.98611,
+                    "lng": -93.20142,
+                    "distance": null
+                },
+                {
+                    "id": "4719",
+                    "personalPhone": null,
+                    "acceptingNewPatients": false,
+                    "practicingSpecialty": "Urgent Care",
+                    "lat": 44.9364,
+                    "lng": -93.08721,
+                    "distance": null
+                },
+                {
+                    "id": "4720",
+                    "personalPhone": null,
+                    "acceptingNewPatients": false,
+                    "practicingSpecialty": "Urgent Care",
+                    "lat": 44.935068,
+                    "lng": -92.935279,
+                    "distance": null
+                },
+                {
+                    "id": "64016",
+                    "personalPhone": null,
+                    "acceptingNewPatients": false,
+                    "practicingSpecialty": "Urgent Care",
+                    "lat": 45.11818,
+                    "lng": -92.55336,
+                    "distance": null
+                }
+            ]
+        },
+        {
+            "id": "167329",
+            "npi": "1598108698",
+            "type": "Doctor",
+            "name": {
+                "first": "Benjamin",
+                "middle": "L.",
+                "last": "Addicks",
+                "suffix": "",
+                "cred": "MD",
+                "fullName": "Benjamin L. Addicks"
+            },
+            "gender": "M",
+            "genderName": "Male",
+            "photo": "https://www.healthpartners.com/content/dam/brand-identity/photography/headshots/a/addicks-benjamin-7040-167329.jpg/jcr:content/renditions/addicks-benjamin-7040-240x240-167329.png",
+            "newpat": true,
+            "lat": 45.04195,
+            "lng": -92.83092,
+            "review": {
+                "id": "167329",
+                "averageRating": 4.320853,
+                "ratingCount": 160,
+                "reviews": []
+            },
+            "distance": 8.3,
+            "rnd": 0,
+            "primaryClinicCityState": "Amery, WI",
+            "numberOfAssociatedLocations": 3,
+            "languages": [
+                "English"
+            ],
+            "expertises": [
+                "Ear, Nose & Throat"
+            ],
+            "specialties": [
+                "Otolaryngology (ENT)"
+            ],
+            "minisites": [
+                "HealthPartners Stillwater Medical Group",
+                "TRIA Spine Care Affiliate"
+            ],
+            "clinicAssociations": [
+                {
+                    "id": "3008",
+                    "personalPhone": null,
+                    "acceptingNewPatients": true,
+                    "practicingSpecialty": "Otolaryngology (ENT)",
+                    "lat": 45.04195,
+                    "lng": -92.83092,
+                    "distance": null
+                },
+                {
+                    "id": "102",
+                    "personalPhone": null,
+                    "acceptingNewPatients": true,
+                    "practicingSpecialty": "Otolaryngology (ENT)",
+                    "lat": 45.29603,
+                    "lng": -92.36044,
+                    "distance": null
+                },
+                {
+                    "id": "13435",
+                    "personalPhone": null,
+                    "acceptingNewPatients": true,
+                    "practicingSpecialty": "Otolaryngology (ENT)",
+                    "lat": 44.9624,
+                    "lng": -92.71855,
+                    "distance": null
+                }
+            ]
+        },
+        {
+            "id": "151748",
+            "npi": "1922403260",
+            "type": "Occupational Therapist",
+            "name": {
+                "first": "Sharon",
+                "middle": "K.",
+                "last": "Ahlswede",
+                "suffix": "",
+                "cred": "OT",
+                "fullName": "Sharon K. Ahlswede"
+            },
+            "gender": "F",
+            "genderName": "Female",
+            "newpat": true,
+            "lat": 45.31332,
+            "lng": -92.36199,
+            "distance": 8.3,
+            "rnd": 0,
+            "primaryClinicCityState": "Amery, WI",
+            "numberOfAssociatedLocations": 3,
+            "languages": [
+                "English"
+            ],
+            "expertises": [
+                "Trigger Finger Treatment",
+                "Occupational Therapy",
+                "Rehabilitation Therapy",
+                "Shoulder Care"
+            ],
+            "specialties": [
+                "Occupational Therapy"
+            ],
+            "minisites": [
+                "HealthPartners Stillwater Medical Group",
+                "TRIA Spine Care Affiliate"
+            ],
+            "clinicAssociations": [
+                {
+                    "id": "31418",
+                    "personalPhone": null,
+                    "acceptingNewPatients": true,
+                    "practicingSpecialty": "Occupational Therapy",
+                    "lat": 45.31332,
+                    "lng": -92.36199,
+                    "distance": null
+                },
+                {
+                    "id": "102",
+                    "personalPhone": null,
+                    "acceptingNewPatients": true,
+                    "practicingSpecialty": "Occupational Therapy",
+                    "lat": 45.29603,
+                    "lng": -92.36044,
+                    "distance": null
+                },
+                {
+                    "id": "3008",
+                    "personalPhone": null,
+                    "acceptingNewPatients": true,
+                    "practicingSpecialty": "Occupational Therapy",
+                    "lat": 45.04195,
+                    "lng": -92.83092,
+                    "distance": null
+                }
+            ]
+        },
+        {
+            "id": "167506",
+            "npi": "1619362142",
+            "type": "Doctor",
+            "name": {
+                "first": "Michael",
+                "middle": "A",
+                "last": "Albano",
+                "suffix": "",
+                "cred": "DO",
+                "fullName": "Michael A Albano"
+            },
+            "gender": "M",
+            "genderName": "Male",
+            "photo": "https://www.healthpartners.com/content/dam/brand-identity/photography/headshots/a/albano-michael-21736-167506.jpg/jcr:content/renditions/albano-michael-21736-240x240-167506.png",
+            "newpat": true,
+            "lat": 45.29603,
+            "lng": -92.36044,
+            "review": {
+                "id": "167506",
+                "averageRating": 4.609912,
+                "ratingCount": 190,
+                "reviews": []
+            },
+            "distance": 8.3,
+            "rnd": 0,
+            "primaryClinicCityState": "Amery, WI",
+            "numberOfAssociatedLocations": 2,
+            "languages": [
+                "English"
+            ],
+            "expertises": [
+                "Primary Care - Family Medicine",
+                "Primary Care - Kid's Health",
+                "Primary Care - Men's Health",
+                "Primary Care - Mental Health",
+                "Primary Care",
+                "Primary Care - Skin Health",
+                "Primary Care - Women's Health"
+            ],
+            "specialties": [
+                "Family Medicine"
+            ],
+            "minisites": [],
+            "guidedShopping": {
+                "trigger": "EDC_PRIMARY,EDC_WOMHLTH",
+                "practitionerIncludedInGseResults": false,
+                "scheduleNow": true,
+                "scheduleNowUrl": "/care/appointments/find-care?pid=167506",
+                "expertise_url": "/care/find/doctors"
+            },
+            "clinicAssociations": [
+                {
+                    "id": "102",
+                    "personalPhone": null,
+                    "acceptingNewPatients": true,
+                    "practicingSpecialty": "Family Medicine",
+                    "lat": 45.29603,
+                    "lng": -92.36044,
+                    "distance": null
+                },
+                {
+                    "id": "3243",
+                    "personalPhone": null,
+                    "acceptingNewPatients": true,
+                    "practicingSpecialty": "Family Medicine",
+                    "lat": 45.57608,
+                    "lng": -92.48873,
+                    "distance": null
+                }
+            ]
+        },
+        {
+            "id": "48687",
+            "npi": "1568429645",
+            "type": "Doctor",
+            "name": {
+                "first": "Nathan",
+                "middle": "P.",
+                "last": "Anderson",
+                "suffix": "",
+                "cred": "MD",
+                "fullName": "Nathan P. Anderson"
+            },
+            "gender": "M",
+            "genderName": "Male",
+            "photo": "https://www.healthpartners.com/content/dam/brand-identity/photography/headshots/a/anderson-nathan-8646-48687.jpg/jcr:content/renditions/anderson-nathan-8646-240x240-48687.png",
+            "newpat": true,
+            "distance": 8.3,
+            "rnd": 0,
+            "primaryClinicCityState": "Amery, WI",
+            "numberOfAssociatedLocations": 8,
+            "languages": [
+                "English"
+            ],
+            "expertises": [
+                "Urgent Care"
+            ],
+            "specialties": [
+                "Emergency Medicine",
+                "Urgent Care"
+            ],
+            "minisites": [
+                "HealthPartners Stillwater Medical Group"
+            ],
+            "clinicAssociations": [
+                {
+                    "id": "102",
+                    "personalPhone": null,
+                    "acceptingNewPatients": true,
+                    "practicingSpecialty": "Emergency Medicine",
+                    "lat": 45.29603,
+                    "lng": -92.36044,
+                    "distance": null
+                },
+                {
+                    "id": "4712",
+                    "personalPhone": null,
+                    "acceptingNewPatients": false,
+                    "practicingSpecialty": "Urgent Care",
+                    "lat": 44.72908,
+                    "lng": -93.22154,
+                    "distance": null
+                },
+                {
+                    "id": "15890",
+                    "personalPhone": null,
+                    "acceptingNewPatients": false,
+                    "practicingSpecialty": "Urgent Care",
+                    "lat": 45.05965,
+                    "lng": -93.15124,
+                    "distance": null
+                },
+                {
+                    "id": "20135",
+                    "personalPhone": null,
+                    "acceptingNewPatients": false,
+                    "practicingSpecialty": "Urgent Care",
+                    "lat": 44.98611,
+                    "lng": -93.20142,
+                    "distance": null
+                },
+                {
+                    "id": "4719",
+                    "personalPhone": null,
+                    "acceptingNewPatients": false,
+                    "practicingSpecialty": "Urgent Care",
+                    "lat": 44.9364,
+                    "lng": -93.08721,
+                    "distance": null
+                },
+                {
+                    "id": "56358",
+                    "personalPhone": null,
+                    "acceptingNewPatients": true,
+                    "practicingSpecialty": "Urgent Care",
+                    "lat": 45.04195,
+                    "lng": -92.83092,
+                    "distance": null
+                },
+                {
+                    "id": "4720",
+                    "personalPhone": null,
+                    "acceptingNewPatients": false,
+                    "practicingSpecialty": "Urgent Care",
+                    "lat": 44.935068,
+                    "lng": -92.935279,
+                    "distance": null
+                },
+                {
+                    "id": "64016",
+                    "personalPhone": null,
+                    "acceptingNewPatients": true,
+                    "practicingSpecialty": "Urgent Care",
+                    "lat": 45.11818,
+                    "lng": -92.55336,
+                    "distance": null
+                }
+            ]
+        },
+        {
+            "id": "66991",
+            "npi": "1770663536",
+            "type": "Doctor",
+            "name": {
+                "first": "Joel",
+                "middle": "E.",
+                "last": "Barbato",
+                "suffix": "",
+                "cred": "MD",
+                "fullName": "Joel E. Barbato"
+            },
+            "gender": "M",
+            "genderName": "Male",
+            "photo": "https://www.healthpartners.com/content/dam/brand-identity/photography/headshots/b/barbato-joel-4480-66991.jpg/jcr:content/renditions/barbato-joel-4480-240x240-66991.png",
+            "newpat": true,
+            "lat": 44.96476,
+            "lng": -93.08457,
+            "review": {
+                "id": "66991",
+                "averageRating": 4.373002,
+                "ratingCount": 167,
+                "reviews": []
+            },
+            "distance": 8.3,
+            "rnd": 0,
+            "primaryClinicCityState": "Amery, WI",
+            "numberOfAssociatedLocations": 3,
+            "languages": [
+                "English"
+            ],
+            "expertises": [
+                "Vascular Surgery",
+                "Vascular & Veins"
+            ],
+            "specialties": [
+                "Vascular Surgery"
+            ],
+            "minisites": [
+                "TRIA Spine Care Affiliate"
+            ],
+            "guidedShopping": {
+                "trigger": "SPC_VASCVEIN",
+                "practitionerIncludedInGseResults": false,
+                "scheduleNow": true,
+                "scheduleNowUrl": "/care/appointments/find-care?pid=66991",
+                "expertise_url": "vascular"
+            },
+            "clinicAssociations": [
+                {
+                    "id": "13062",
+                    "personalPhone": null,
+                    "acceptingNewPatients": true,
+                    "practicingSpecialty": "Vascular Surgery",
+                    "lat": 44.96476,
+                    "lng": -93.08457,
+                    "distance": null
+                },
+                {
+                    "id": "102",
+                    "personalPhone": null,
+                    "acceptingNewPatients": true,
+                    "practicingSpecialty": "Vascular Surgery",
+                    "lat": 45.29603,
+                    "lng": -92.36044,
+                    "distance": null
+                },
+                {
+                    "id": "13435",
+                    "personalPhone": null,
+                    "acceptingNewPatients": true,
+                    "practicingSpecialty": "Vascular Surgery",
+                    "lat": 44.9624,
+                    "lng": -92.71855,
+                    "distance": null
+                }
+            ]
+        },
+        {
+            "id": "6538",
+            "npi": "1164412649",
+            "type": "Doctor",
+            "name": {
+                "first": "Michael",
+                "middle": "R.",
+                "last": "Bourne",
+                "suffix": "",
+                "cred": "DPM",
+                "fullName": "Michael R. Bourne"
+            },
+            "gender": "M",
+            "genderName": "Male",
+            "photo": "https://www.healthpartners.com/content/dam/brand-identity/photography/headshots/b/bourne-michael-1234-6538.jpg/jcr:content/renditions/bourne-michael-1234-240x240-6538.png",
+            "newpat": true,
+            "lat": 45.04195,
+            "lng": -92.83092,
+            "review": {
+                "id": "6538",
+                "averageRating": 4.603923,
+                "ratingCount": 211,
+                "reviews": []
+            },
+            "distance": 8.3,
+            "rnd": 0,
+            "primaryClinicCityState": "Amery, WI",
+            "numberOfAssociatedLocations": 3,
+            "languages": [
+                "English"
+            ],
+            "expertises": [
+                "Osteoarthritis",
+                "Podiatry",
+                "Ankle Care",
+                "Foot Care",
+                "Foot and Ankle Care"
+            ],
+            "specialties": [
+                "Foot and Ankle Surgery",
+                "Podiatric Surgery",
+                "Podiatry"
+            ],
+            "minisites": [
+                "TRIA Orthopedics",
+                "TRIA Spine Care Affiliate"
+            ],
+            "guidedShopping": {
+                "trigger": "SPC_PODIATRY",
+                "practitionerIncludedInGseResults": false,
+                "scheduleNow": true,
+                "scheduleNowUrl": "/care/appointments/find-care?pid=6538",
+                "expertise_url": "podiatrists"
+            },
+            "clinicAssociations": [
+                {
+                    "id": "66264",
+                    "personalPhone": null,
+                    "acceptingNewPatients": true,
+                    "practicingSpecialty": "Foot and Ankle Surgery",
+                    "lat": 45.04195,
+                    "lng": -92.83092,
+                    "distance": null
+                },
+                {
+                    "id": "66264",
+                    "personalPhone": null,
+                    "acceptingNewPatients": true,
+                    "practicingSpecialty": "Podiatric Surgery",
+                    "lat": 45.04195,
+                    "lng": -92.83092,
+                    "distance": null
+                },
+                {
+                    "id": "66264",
+                    "personalPhone": null,
+                    "acceptingNewPatients": true,
+                    "practicingSpecialty": "Podiatry",
+                    "lat": 45.04195,
+                    "lng": -92.83092,
+                    "distance": null
+                },
+                {
+                    "id": "102",
+                    "personalPhone": null,
+                    "acceptingNewPatients": true,
+                    "practicingSpecialty": "Foot and Ankle Surgery",
+                    "lat": 45.29603,
+                    "lng": -92.36044,
+                    "distance": null
+                },
+                {
+                    "id": "102",
+                    "personalPhone": null,
+                    "acceptingNewPatients": true,
+                    "practicingSpecialty": "Podiatric Surgery",
+                    "lat": 45.29603,
+                    "lng": -92.36044,
+                    "distance": null
+                },
+                {
+                    "id": "102",
+                    "personalPhone": null,
+                    "acceptingNewPatients": true,
+                    "practicingSpecialty": "Podiatry",
+                    "lat": 45.29603,
+                    "lng": -92.36044,
+                    "distance": null
+                },
+                {
+                    "id": "64115",
+                    "personalPhone": null,
+                    "acceptingNewPatients": true,
+                    "practicingSpecialty": "Foot and Ankle Surgery",
+                    "lat": 45.04786,
+                    "lng": -92.81847,
+                    "distance": null
+                }
+            ]
+        },
+        {
+            "id": "149170",
+            "npi": "1386176956",
+            "type": "Nurse Practitioner",
+            "name": {
+                "first": "Sara",
+                "middle": "M.",
+                "last": "Burghaus",
+                "suffix": "",
+                "cred": "NP-F",
+                "fullName": "Sara M. Burghaus"
+            },
+            "gender": "F",
+            "genderName": "Female",
+            "newpat": true,
+            "lat": 45.12368,
+            "lng": -92.66118,
+            "distance": 8.3,
+            "rnd": 0,
+            "primaryClinicCityState": "Amery, WI",
+            "numberOfAssociatedLocations": 3,
+            "languages": [
+                "English"
+            ],
+            "expertises": [
+                "Primary Care - Family Medicine",
+                "Primary Care - Kid's Health",
+                "Primary Care - Men's Health",
+                "Primary Care - Mental Health",
+                "Primary Care - Nurse Practitioners",
+                "Primary Care",
+                "Primary Care - Skin Health",
+                "Primary Care - Women's Health"
+            ],
+            "specialties": [
+                "Family Medicine"
+            ],
+            "minisites": [
+                "HealthPartners Stillwater Medical Group",
+                "TRIA Spine Care Affiliate"
+            ],
+            "guidedShopping": {
+                "trigger": "EDC_PRIMARY,EDC_WOMHLTH",
+                "practitionerIncludedInGseResults": false,
+                "scheduleNow": true,
+                "scheduleNowUrl": "/care/appointments/find-care?pid=149170",
+                "expertise_url": "/care/find/doctors"
+            },
+            "clinicAssociations": [
+                {
+                    "id": "8890",
+                    "personalPhone": null,
+                    "acceptingNewPatients": true,
+                    "practicingSpecialty": "Family Medicine",
+                    "lat": 45.12368,
+                    "lng": -92.66118,
+                    "distance": null
+                },
+                {
+                    "id": "102",
+                    "personalPhone": null,
+                    "acceptingNewPatients": true,
+                    "practicingSpecialty": "Family Medicine",
+                    "lat": 45.29603,
+                    "lng": -92.36044,
+                    "distance": null
+                },
+                {
+                    "id": "3008",
+                    "personalPhone": null,
+                    "acceptingNewPatients": true,
+                    "practicingSpecialty": "Family Medicine",
+                    "lat": 45.04195,
+                    "lng": -92.83092,
+                    "distance": null
+                }
+            ]
+        },
+        {
+            "id": "249434",
+            "npi": "1922486307",
+            "type": "Physical Therapist",
+            "name": {
+                "first": "Amy",
+                "middle": "J.",
+                "last": "Carlson",
+                "suffix": "",
+                "cred": "PT",
+                "fullName": "Amy J. Carlson"
+            },
+            "gender": "F",
+            "genderName": "Female",
+            "newpat": true,
+            "lat": 45.31332,
+            "lng": -92.36199,
+            "distance": 8.3,
+            "rnd": 0,
+            "primaryClinicCityState": "Amery, WI",
+            "numberOfAssociatedLocations": 3,
+            "languages": [
+                "English"
+            ],
+            "expertises": [
+                "Physical Therapy",
+                "Rehabilitation Therapy"
+            ],
+            "specialties": [
+                "Physical Therapy"
+            ],
+            "minisites": [],
+            "clinicAssociations": [
+                {
+                    "id": "31418",
+                    "personalPhone": null,
+                    "acceptingNewPatients": true,
+                    "practicingSpecialty": "Physical Therapy",
+                    "lat": 45.31332,
+                    "lng": -92.36199,
+                    "distance": null
+                },
+                {
+                    "id": "102",
+                    "personalPhone": null,
+                    "acceptingNewPatients": true,
+                    "practicingSpecialty": "Physical Therapy",
+                    "lat": 45.29603,
+                    "lng": -92.36044,
+                    "distance": null
+                },
+                {
+                    "id": "16189",
+                    "personalPhone": null,
+                    "acceptingNewPatients": true,
+                    "practicingSpecialty": "Physical Therapy",
+                    "lat": 45.57608,
+                    "lng": -92.48873,
+                    "distance": null
+                }
+            ]
+        },
+        {
+            "id": "102456",
+            "npi": "1952731986",
+            "type": "Nurse Practitioner",
+            "name": {
+                "first": "Suzanne",
+                "middle": "M.",
+                "last": "Carlson-Shimon",
+                "suffix": "",
+                "cred": "NP-F",
+                "fullName": "Suzanne M. Carlson-Shimon"
+            },
+            "gender": "F",
+            "genderName": "Female",
+            "photo": "https://www.healthpartners.com/content/dam/brand-identity/photography/headshots/c/carlson-shimon-suzanne-6494-102456.jpg/jcr:content/renditions/carlson-shimon-suzanne-6494-240x240-102456.png",
+            "newpat": true,
+            "lat": 45.04195,
+            "lng": -92.83092,
+            "distance": 8.3,
+            "rnd": 0,
+            "primaryClinicCityState": "Amery, WI",
+            "numberOfAssociatedLocations": 3,
+            "languages": [
+                "English"
+            ],
+            "expertises": [
+                "Primary Care - Family Medicine",
+                "Primary Care - Kid's Health",
+                "Primary Care - Men's Health",
+                "Primary Care - Mental Health",
+                "Primary Care - Nurse Practitioners",
+                "Primary Care",
+                "Primary Care - Skin Health",
+                "Primary Care - Women's Health",
+                "Urgent Care"
+            ],
+            "specialties": [
+                "Urgent Care",
+                "Family Medicine"
+            ],
+            "minisites": [
+                "HealthPartners Stillwater Medical Group"
+            ],
+            "guidedShopping": {
+                "trigger": "EDC_PRIMARY,EDC_WOMHLTH",
+                "practitionerIncludedInGseResults": false,
+                "scheduleNow": true,
+                "scheduleNowUrl": "/care/appointments/find-care?pid=102456",
+                "expertise_url": "/care/find/doctors"
+            },
+            "clinicAssociations": [
+                {
+                    "id": "56358",
+                    "personalPhone": null,
+                    "acceptingNewPatients": false,
+                    "practicingSpecialty": "Urgent Care",
+                    "lat": 45.04195,
+                    "lng": -92.83092,
+                    "distance": null
+                },
+                {
+                    "id": "102",
+                    "personalPhone": null,
+                    "acceptingNewPatients": true,
+                    "practicingSpecialty": "Family Medicine",
+                    "lat": 45.29603,
+                    "lng": -92.36044,
+                    "distance": null
+                },
+                {
+                    "id": "64016",
+                    "personalPhone": null,
+                    "acceptingNewPatients": false,
+                    "practicingSpecialty": "Urgent Care",
+                    "lat": 45.11818,
+                    "lng": -92.55336,
+                    "distance": null
+                }
+            ]
+        },
+        {
+            "id": "26175",
+            "npi": "1730184078",
+            "type": "Doctor",
+            "name": {
+                "first": "Chokchai",
+                "middle": "",
+                "last": "Chareandee",
+                "suffix": "",
+                "cred": "MD",
+                "fullName": "Chokchai Chareandee"
+            },
+            "gender": "M",
+            "genderName": "Male",
+            "photo": "https://www.healthpartners.com/content/dam/brand-identity/photography/headshots/c/chareandee-chokchai-13312-26175.jpg/jcr:content/renditions/chareandee-chokchai-13312-240x240-26175.png",
+            "newpat": true,
+            "lat": 44.9364,
+            "lng": -93.08721,
+            "review": {
+                "id": "26175",
+                "averageRating": 4.501517,
+                "ratingCount": 68,
+                "reviews": []
+            },
+            "distance": 8.3,
+            "rnd": 0,
+            "primaryClinicCityState": "Amery, WI",
+            "numberOfAssociatedLocations": 2,
+            "languages": [
+                "English",
+                "Thai"
+            ],
+            "expertises": [
+                "Kidney Health"
+            ],
+            "specialties": [
+                "Nephrology"
+            ],
+            "minisites": [],
+            "clinicAssociations": [
+                {
+                    "id": "303",
+                    "personalPhone": null,
+                    "acceptingNewPatients": true,
+                    "practicingSpecialty": "Nephrology",
+                    "lat": 44.9364,
+                    "lng": -93.08721,
+                    "distance": null
+                },
+                {
+                    "id": "102",
+                    "personalPhone": null,
+                    "acceptingNewPatients": true,
+                    "practicingSpecialty": "Nephrology",
+                    "lat": 45.29603,
+                    "lng": -92.36044,
+                    "distance": null
+                }
+            ]
+        },
+        {
+            "id": "172082",
+            "npi": "1063995629",
+            "type": "Nurse Practitioner",
+            "name": {
+                "first": "David",
+                "middle": "B.",
+                "last": "Clark",
+                "suffix": "",
+                "cred": "DNP-F",
+                "fullName": "David B. Clark"
+            },
+            "gender": "M",
+            "genderName": "Male",
+            "photo": "https://www.healthpartners.com/content/dam/brand-identity/photography/headshots/c/clark-david-0837-172082.jpg/jcr:content/renditions/clark-david-0837-240x240-172082.png",
+            "newpat": true,
+            "lat": 45.04195,
+            "lng": -92.83092,
+            "distance": 8.3,
+            "rnd": 0,
+            "primaryClinicCityState": "Amery, WI",
+            "numberOfAssociatedLocations": 3,
+            "languages": [
+                "English"
+            ],
+            "expertises": [
+                "Primary Care - Family Medicine",
+                "Primary Care - Kid's Health",
+                "Primary Care - Men's Health",
+                "Primary Care - Mental Health",
+                "Primary Care - Nurse Practitioners",
+                "Primary Care",
+                "Primary Care - Skin Health",
+                "Primary Care - Women's Health",
+                "Urgent Care"
+            ],
+            "specialties": [
+                "Urgent Care",
+                "Family Medicine"
+            ],
+            "minisites": [
+                "HealthPartners Stillwater Medical Group"
+            ],
+            "guidedShopping": {
+                "trigger": "EDC_PRIMARY,EDC_WOMHLTH",
+                "practitionerIncludedInGseResults": false,
+                "scheduleNow": true,
+                "scheduleNowUrl": "/care/appointments/find-care?pid=172082",
+                "expertise_url": "/care/find/doctors"
+            },
+            "clinicAssociations": [
+                {
+                    "id": "56358",
+                    "personalPhone": null,
+                    "acceptingNewPatients": true,
+                    "practicingSpecialty": "Urgent Care",
+                    "lat": 45.04195,
+                    "lng": -92.83092,
+                    "distance": null
+                },
+                {
+                    "id": "102",
+                    "personalPhone": null,
+                    "acceptingNewPatients": true,
+                    "practicingSpecialty": "Family Medicine",
+                    "lat": 45.29603,
+                    "lng": -92.36044,
+                    "distance": null
+                },
+                {
+                    "id": "64016",
+                    "personalPhone": null,
+                    "acceptingNewPatients": true,
+                    "practicingSpecialty": "Urgent Care",
+                    "lat": 45.11818,
+                    "lng": -92.55336,
+                    "distance": null
+                }
+            ]
+        },
+        {
+            "id": "207961",
+            "npi": "1154700557",
+            "type": "Doctor",
+            "name": {
+                "first": "Haley",
+                "middle": "B.",
+                "last": "Combs",
+                "suffix": "",
+                "cred": "MD",
+                "fullName": "Haley B. Combs"
+            },
+            "gender": "F",
+            "genderName": "Female",
+            "photo": "https://www.healthpartners.com/content/dam/brand-identity/photography/headshots/c/combs-haley-11071-207961.jpg/jcr:content/renditions/combs-haley-11071-240x240-207961.png",
+            "newpat": true,
+            "lat": 45.29603,
+            "lng": -92.36044,
+            "review": {
+                "id": "207961",
+                "averageRating": 4.687,
+                "ratingCount": 137,
+                "reviews": []
+            },
+            "distance": 8.3,
+            "rnd": 0,
+            "primaryClinicCityState": "Amery, WI",
+            "numberOfAssociatedLocations": 3,
+            "languages": [
+                "English"
+            ],
+            "expertises": [
+                "Primary Care - Family Medicine",
+                "Primary Care - Kid's Health",
+                "Primary Care - Men's Health",
+                "Primary Care - Mental Health",
+                "Primary Care",
+                "Primary Care - Skin Health",
+                "Primary Care - Women's Health"
+            ],
+            "specialties": [
+                "Family Medicine"
+            ],
+            "minisites": [],
+            "guidedShopping": {
+                "trigger": "EDC_PRIMARY,EDC_WOMHLTH",
+                "practitionerIncludedInGseResults": false,
+                "scheduleNow": true,
+                "scheduleNowUrl": "/care/appointments/find-care?pid=207961",
+                "expertise_url": "/care/find/doctors"
+            },
+            "clinicAssociations": [
+                {
+                    "id": "102",
+                    "personalPhone": null,
+                    "acceptingNewPatients": true,
+                    "practicingSpecialty": "Family Medicine",
+                    "lat": 45.29603,
+                    "lng": -92.36044,
+                    "distance": null
+                },
+                {
+                    "id": "65810",
+                    "personalPhone": null,
+                    "acceptingNewPatients": true,
+                    "practicingSpecialty": "Family Medicine",
+                    "lat": 45.29603,
+                    "lng": -92.36044,
+                    "distance": null
+                },
+                {
+                    "id": "13318",
+                    "personalPhone": null,
+                    "acceptingNewPatients": true,
+                    "practicingSpecialty": "Family Medicine",
+                    "lat": 45.39505,
+                    "lng": -92.15026,
+                    "distance": null
+                }
+            ]
+        },
+        {
+            "id": "180589",
+            "npi": "1326602145",
+            "type": "Physician Assistant",
+            "name": {
+                "first": "Justine",
+                "middle": "M.L.",
+                "last": "Commerford",
+                "suffix": "",
+                "cred": "PA-C",
+                "fullName": "Justine M.L. Commerford"
+            },
+            "gender": "F",
+            "genderName": "Female",
+            "photo": "https://www.healthpartners.com/content/dam/brand-identity/photography/headshots/c/commerford-justine-11266-180589.jpg/jcr:content/renditions/commerford-justine-11266-240x240-180589.png",
+            "newpat": true,
+            "lat": 44.95594,
+            "lng": -93.09423,
+            "review": {
+                "id": "180589",
+                "averageRating": 4.613977,
+                "ratingCount": 108,
+                "reviews": []
+            },
+            "distance": 8.3,
+            "rnd": 0,
+            "primaryClinicCityState": "Amery, WI",
+            "numberOfAssociatedLocations": 4,
+            "languages": [
+                "English"
+            ],
+            "expertises": [
+                "Cardiology Specialists",
+                "Heart & Heart Surgery"
+            ],
+            "specialties": [
+                "Cardiology"
+            ],
+            "minisites": [
+                "Regions Heart Center",
+                "HealthPartners Stillwater Medical Group",
+                "TRIA Spine Care Affiliate"
+            ],
+            "guidedShopping": {
+                "trigger": "SPC_HRTHRTSURG",
+                "practitionerIncludedInGseResults": false,
+                "scheduleNow": true,
+                "scheduleNowUrl": "/care/appointments/find-care?pid=180589",
+                "expertise_url": "cardiologists"
+            },
+            "clinicAssociations": [
+                {
+                    "id": "23965",
+                    "personalPhone": null,
+                    "acceptingNewPatients": true,
+                    "practicingSpecialty": "Cardiology",
+                    "lat": 44.95594,
+                    "lng": -93.09423,
+                    "distance": null
+                },
+                {
+                    "id": "102",
+                    "personalPhone": null,
+                    "acceptingNewPatients": true,
+                    "practicingSpecialty": "Cardiology",
+                    "lat": 45.29603,
+                    "lng": -92.36044,
+                    "distance": null
+                },
+                {
+                    "id": "3008",
+                    "personalPhone": null,
+                    "acceptingNewPatients": true,
+                    "practicingSpecialty": "Cardiology",
+                    "lat": 45.04195,
+                    "lng": -92.83092,
+                    "distance": null
+                },
+                {
+                    "id": "34421",
+                    "personalPhone": null,
+                    "acceptingNewPatients": true,
+                    "practicingSpecialty": "Cardiology",
+                    "lat": 45.04786,
+                    "lng": -92.81847,
+                    "distance": null
+                }
+            ]
+        },
+        {
+            "id": "176688",
+            "npi": "1538681663",
+            "type": "Physical Therapist",
+            "name": {
+                "first": "Marlee",
+                "middle": "M.",
+                "last": "Dachel",
+                "suffix": "",
+                "cred": "PT, DPT",
+                "fullName": "Marlee M. Dachel"
+            },
+            "gender": "F",
+            "genderName": "Female",
+            "photo": "https://www.healthpartners.com/content/dam/brand-identity/photography/headshots/d/dachel-marlee-0276-176688.jpg/jcr:content/renditions/dachel-marlee-0276-240x240-176688.png",
+            "newpat": true,
+            "lat": 45.31332,
+            "lng": -92.36199,
+            "distance": 8.3,
+            "rnd": 0,
+            "primaryClinicCityState": "Amery, WI",
+            "numberOfAssociatedLocations": 2,
+            "languages": [
+                "English"
+            ],
+            "expertises": [
+                "Degenerative Disc Disease",
+                "Disc Herniation",
+                "Knee Ligament Injury",
+                "Rotator Cuff Tear",
+                "Trigger Finger Treatment",
+                "Neck and Back Care",
+                "Physical Therapy",
+                "Rehabilitation Therapy",
+                "Vestibular Therapy",
+                "Ankle Care",
+                "Elbow Care",
+                "Foot Care",
+                "Foot and Ankle Care",
+                "Hand Care",
+                "Hip Care",
+                "Knee Care",
+                "Shoulder Care",
+                "Wrist and Hand Care"
+            ],
+            "specialties": [
+                "Physical Therapy"
+            ],
+            "minisites": [],
+            "clinicAssociations": [
+                {
+                    "id": "31418",
+                    "personalPhone": null,
+                    "acceptingNewPatients": true,
+                    "practicingSpecialty": "Physical Therapy",
+                    "lat": 45.31332,
+                    "lng": -92.36199,
+                    "distance": null
+                },
+                {
+                    "id": "102",
+                    "personalPhone": null,
+                    "acceptingNewPatients": false,
+                    "practicingSpecialty": "Physical Therapy",
+                    "lat": 45.29603,
+                    "lng": -92.36044,
+                    "distance": null
+                }
+            ]
+        }
+    ],
+    "totalCount": 2697,
+    "practitionerFilterOptions": {
+        "applied": {
+            "sort": "dist",
+            "distance": 75,
+            "lat": 45.2365,
+            "lng": -92.2749,
+            "locations": [],
+            "where": "Clear Lake, Wisconsin 54005, United States",
+            "size": 20,
+            "offset": 0
+        },
+        "types": [
+            {
+                "name": "Doctor (1337)",
+                "value": "Doctor",
+                "count": 1337,
+                "definedOrder": 0
+            },
+            {
+                "name": "Psychologist (81)",
+                "value": "Psychologist",
+                "count": 81,
+                "definedOrder": 1
+            },
+            {
+                "name": "Nurse Practitioner (263)",
+                "value": "Nurse Practitioner",
+                "count": 263,
+                "definedOrder": 2
+            },
+            {
+                "name": "Acupuncture (2)",
+                "value": "Acupuncture",
+                "count": 2,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Advanced Dental Therapist (1)",
+                "value": "Advanced Dental Therapist",
+                "count": 1,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Alcohol and Drug Counselor (0)",
+                "value": "Alcohol and Drug Counselor",
+                "count": 0,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Audiologist (29)",
+                "value": "Audiologist",
+                "count": 29,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Clinical Nurse Specialist (2)",
+                "value": "Clinical Nurse Specialist",
+                "count": 2,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Dentist (44)",
+                "value": "Dentist",
+                "count": 44,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Genetic Counselor (14)",
+                "value": "Genetic Counselor",
+                "count": 14,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Internal Medicine (1)",
+                "value": "Internal Medicine",
+                "count": 1,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Marriage and Family Therapist (29)",
+                "value": "Marriage and Family Therapist",
+                "count": 29,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Neuropsychologist (5)",
+                "value": "Neuropsychologist",
+                "count": 5,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Nurse Anesthetist (5)",
+                "value": "Nurse Anesthetist",
+                "count": 5,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Nurse Midwife (51)",
+                "value": "Nurse Midwife",
+                "count": 51,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Occupational Therapist (71)",
+                "value": "Occupational Therapist",
+                "count": 71,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Optometrist (33)",
+                "value": "Optometrist",
+                "count": 33,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Pharmacist (15)",
+                "value": "Pharmacist",
+                "count": 15,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Physical Therapist (224)",
+                "value": "Physical Therapist",
+                "count": 224,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Physician Assistant (292)",
+                "value": "Physician Assistant",
+                "count": 292,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Professional Clinical Counselor (18)",
+                "value": "Professional Clinical Counselor",
+                "count": 18,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Professional Counselor (2)",
+                "value": "Professional Counselor",
+                "count": 2,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Registered Dietitian (71)",
+                "value": "Registered Dietitian",
+                "count": 71,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Sleep Psychologist (3)",
+                "value": "Sleep Psychologist",
+                "count": 3,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Social Worker (72)",
+                "value": "Social Worker",
+                "count": 72,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Speech & Language Pathologist (32)",
+                "value": "Speech & Language Pathologist",
+                "count": 32,
+                "definedOrder": 2147483647
+            }
+        ],
+        "languages": [
+            {
+                "name": "Somali (12)",
+                "value": "Somali",
+                "count": 12,
+                "definedOrder": 0
+            },
+            {
+                "name": "Spanish (111)",
+                "value": "Spanish",
+                "count": 111,
+                "definedOrder": 1
+            },
+            {
+                "name": "Chinese (11)",
+                "value": "Chinese",
+                "count": 11,
+                "definedOrder": 2
+            },
+            {
+                "name": "Akan (1)",
+                "value": "Akan",
+                "count": 1,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Albanian (2)",
+                "value": "Albanian",
+                "count": 2,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "American Sign Language (3)",
+                "value": "American Sign Language",
+                "count": 3,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Arabic (21)",
+                "value": "Arabic",
+                "count": 21,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Bengali (3)",
+                "value": "Bengali",
+                "count": 3,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Bosnian (1)",
+                "value": "Bosnian",
+                "count": 1,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Burmese (3)",
+                "value": "Burmese",
+                "count": 3,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Cambodian (1)",
+                "value": "Cambodian",
+                "count": 1,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Chinese-Cantonese (3)",
+                "value": "Chinese-Cantonese",
+                "count": 3,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Chinese-Mandarin (11)",
+                "value": "Chinese-Mandarin",
+                "count": 11,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Croatian (1)",
+                "value": "Croatian",
+                "count": 1,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Czech (3)",
+                "value": "Czech",
+                "count": 3,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Danish (1)",
+                "value": "Danish",
+                "count": 1,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Dutch (2)",
+                "value": "Dutch",
+                "count": 2,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Dzongkha (1)",
+                "value": "Dzongkha",
+                "count": 1,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "English (2697)",
+                "value": "English",
+                "count": 2697,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Farsi (8)",
+                "value": "Farsi",
+                "count": 8,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Filipino (11)",
+                "value": "Filipino",
+                "count": 11,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Finnish (1)",
+                "value": "Finnish",
+                "count": 1,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "French (38)",
+                "value": "French",
+                "count": 38,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "German (22)",
+                "value": "German",
+                "count": 22,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Greek (4)",
+                "value": "Greek",
+                "count": 4,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Gujarati (5)",
+                "value": "Gujarati",
+                "count": 5,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Gusii (1)",
+                "value": "Gusii",
+                "count": 1,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Haitian Creole (2)",
+                "value": "Haitian Creole",
+                "count": 2,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Hebrew (3)",
+                "value": "Hebrew",
+                "count": 3,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Hindi (58)",
+                "value": "Hindi",
+                "count": 58,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Hmong (13)",
+                "value": "Hmong",
+                "count": 13,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Hungarian (0)",
+                "value": "Hungarian",
+                "count": 0,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Igbo (6)",
+                "value": "Igbo",
+                "count": 6,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Indonesian (1)",
+                "value": "Indonesian",
+                "count": 1,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Italian (6)",
+                "value": "Italian",
+                "count": 6,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Japanese (3)",
+                "value": "Japanese",
+                "count": 3,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Kannada (5)",
+                "value": "Kannada",
+                "count": 5,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Kashmiri (1)",
+                "value": "Kashmiri",
+                "count": 1,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Kissi (1)",
+                "value": "Kissi",
+                "count": 1,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Korean (1)",
+                "value": "Korean",
+                "count": 1,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Kurdish (0)",
+                "value": "Kurdish",
+                "count": 0,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Lao (1)",
+                "value": "Lao",
+                "count": 1,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Lithuanian (1)",
+                "value": "Lithuanian",
+                "count": 1,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Luo (1)",
+                "value": "Luo",
+                "count": 1,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Macedonian (1)",
+                "value": "Macedonian",
+                "count": 1,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Malagasy (1)",
+                "value": "Malagasy",
+                "count": 1,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Malayalam (3)",
+                "value": "Malayalam",
+                "count": 3,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Marathi (8)",
+                "value": "Marathi",
+                "count": 8,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Nepali (4)",
+                "value": "Nepali",
+                "count": 4,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Norwegian (1)",
+                "value": "Norwegian",
+                "count": 1,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Nuer (0)",
+                "value": "Nuer",
+                "count": 0,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Oromo (1)",
+                "value": "Oromo",
+                "count": 1,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Persian (2)",
+                "value": "Persian",
+                "count": 2,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Polish (3)",
+                "value": "Polish",
+                "count": 3,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Portuguese (3)",
+                "value": "Portuguese",
+                "count": 3,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Punjabi (13)",
+                "value": "Punjabi",
+                "count": 13,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Pushto (1)",
+                "value": "Pushto",
+                "count": 1,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Romanian (3)",
+                "value": "Romanian",
+                "count": 3,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Russian (7)",
+                "value": "Russian",
+                "count": 7,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Serbian (1)",
+                "value": "Serbian",
+                "count": 1,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Serbo Croatian (2)",
+                "value": "Serbo Croatian",
+                "count": 2,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Sindhi (1)",
+                "value": "Sindhi",
+                "count": 1,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Slovak (2)",
+                "value": "Slovak",
+                "count": 2,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Swahili (6)",
+                "value": "Swahili",
+                "count": 6,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Swedish (1)",
+                "value": "Swedish",
+                "count": 1,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Tagalog (9)",
+                "value": "Tagalog",
+                "count": 9,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Taiwanese (1)",
+                "value": "Taiwanese",
+                "count": 1,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Tamil (7)",
+                "value": "Tamil",
+                "count": 7,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Telugu (14)",
+                "value": "Telugu",
+                "count": 14,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Thai (8)",
+                "value": "Thai",
+                "count": 8,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Tibetan (1)",
+                "value": "Tibetan",
+                "count": 1,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Tigrigna (1)",
+                "value": "Tigrigna",
+                "count": 1,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Tswana (0)",
+                "value": "Tswana",
+                "count": 0,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Turkish (4)",
+                "value": "Turkish",
+                "count": 4,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Ukrainian (1)",
+                "value": "Ukrainian",
+                "count": 1,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Urdu (21)",
+                "value": "Urdu",
+                "count": 21,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Vietnamese (4)",
+                "value": "Vietnamese",
+                "count": 4,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Wolof (1)",
+                "value": "Wolof",
+                "count": 1,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Yoruba (9)",
+                "value": "Yoruba",
+                "count": 9,
+                "definedOrder": 2147483647
+            }
+        ],
+        "expertises": [
+            {
+                "name": "Primary Care (650)",
+                "value": "Primary Care",
+                "count": 650,
+                "definedOrder": 0
+            },
+            {
+                "name": "OB-GYN (156)",
+                "value": "OB-GYN",
+                "count": 156,
+                "definedOrder": 1
+            },
+            {
+                "name": "Mental & Behavioral Health (315)",
+                "value": "Mental & Behavioral Health",
+                "count": 315,
+                "definedOrder": 2
+            },
+            {
+                "name": "Acupuncture (2)",
+                "value": "Acupuncture",
+                "count": 2,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Addiction (4)",
+                "value": "Addiction",
+                "count": 4,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Adult Medicine (4)",
+                "value": "Adult Medicine",
+                "count": 4,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Alcohol and Drug Counselors (0)",
+                "value": "Alcohol and Drug Counselors",
+                "count": 0,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Allergy (10)",
+                "value": "Allergy",
+                "count": 10,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Allergy/Asthma (10)",
+                "value": "Allergy/Asthma",
+                "count": 10,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Amyotrophic Lateral Sclerosis ALS Treatment (4)",
+                "value": "Amyotrophic Lateral Sclerosis ALS Treatment",
+                "count": 4,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Andrology (1)",
+                "value": "Andrology",
+                "count": 1,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Anesthesiology (5)",
+                "value": "Anesthesiology",
+                "count": 5,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Ankle Care (198)",
+                "value": "Ankle Care",
+                "count": 198,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Aquatics Therapy (13)",
+                "value": "Aquatics Therapy",
+                "count": 13,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Asthma (10)",
+                "value": "Asthma",
+                "count": 10,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Audiology (29)",
+                "value": "Audiology",
+                "count": 29,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Bariatric Surgery & Weight Loss (23)",
+                "value": "Bariatric Surgery & Weight Loss",
+                "count": 23,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Blood Flow Restriction (44)",
+                "value": "Blood Flow Restriction",
+                "count": 44,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Brain Cancer (1)",
+                "value": "Brain Cancer",
+                "count": 1,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Breast Health (25)",
+                "value": "Breast Health",
+                "count": 25,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Cancer Care (81)",
+                "value": "Cancer Care",
+                "count": 81,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Cardiology Specialists (75)",
+                "value": "Cardiology Specialists",
+                "count": 75,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Cardiovascular & Thoracic Surgery (15)",
+                "value": "Cardiovascular & Thoracic Surgery",
+                "count": 15,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Carpal Tunnel Syndrome (49)",
+                "value": "Carpal Tunnel Syndrome",
+                "count": 49,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Child & Adolescent Psychiatry (9)",
+                "value": "Child & Adolescent Psychiatry",
+                "count": 9,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Children's Mental Health (3)",
+                "value": "Children's Mental Health",
+                "count": 3,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Clinical Cardiac Electrophysiology (11)",
+                "value": "Clinical Cardiac Electrophysiology",
+                "count": 11,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Colon Rectal Surgery (6)",
+                "value": "Colon Rectal Surgery",
+                "count": 6,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Compass Program (3)",
+                "value": "Compass Program",
+                "count": 3,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Concussion (5)",
+                "value": "Concussion",
+                "count": 5,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Contact Dermatitis (54)",
+                "value": "Contact Dermatitis",
+                "count": 54,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Cosmetic Dermatology (2)",
+                "value": "Cosmetic Dermatology",
+                "count": 2,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Cosmetic Surgery (16)",
+                "value": "Cosmetic Surgery",
+                "count": 16,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Critical Care Medicine (25)",
+                "value": "Critical Care Medicine",
+                "count": 25,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Cycling Program (13)",
+                "value": "Cycling Program",
+                "count": 13,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Degenerative Disc Disease (179)",
+                "value": "Degenerative Disc Disease",
+                "count": 179,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Dentists (34)",
+                "value": "Dentists",
+                "count": 34,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Dermatology (44)",
+                "value": "Dermatology",
+                "count": 44,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Dermatopathology (4)",
+                "value": "Dermatopathology",
+                "count": 4,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Diagnostic Radiology (43)",
+                "value": "Diagnostic Radiology",
+                "count": 43,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Dietitians (71)",
+                "value": "Dietitians",
+                "count": 71,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Digestive Health (54)",
+                "value": "Digestive Health",
+                "count": 54,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Disc Herniation (179)",
+                "value": "Disc Herniation",
+                "count": 179,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Dry Needling (39)",
+                "value": "Dry Needling",
+                "count": 39,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Ear, Nose & Throat (35)",
+                "value": "Ear, Nose & Throat",
+                "count": 35,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Eating Disorders (78)",
+                "value": "Eating Disorders",
+                "count": 78,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Elbow Care (186)",
+                "value": "Elbow Care",
+                "count": 186,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Endocrinology (32)",
+                "value": "Endocrinology",
+                "count": 32,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Endodontics (2)",
+                "value": "Endodontics",
+                "count": 2,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Executive Health (2)",
+                "value": "Executive Health",
+                "count": 2,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Facial Plastic/Reconstructive Surgery (4)",
+                "value": "Facial Plastic/Reconstructive Surgery",
+                "count": 4,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Fall Prevention and Balance Program (0)",
+                "value": "Fall Prevention and Balance Program",
+                "count": 0,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Family Therapists (29)",
+                "value": "Family Therapists",
+                "count": 29,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Foot Care (181)",
+                "value": "Foot Care",
+                "count": 181,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Foot and Ankle Care (198)",
+                "value": "Foot and Ankle Care",
+                "count": 198,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Gender Services (15)",
+                "value": "Gender Services",
+                "count": 15,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Genetic Counselor (14)",
+                "value": "Genetic Counselor",
+                "count": 14,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Geriatric Medicine (22)",
+                "value": "Geriatric Medicine",
+                "count": 22,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Glaucoma (2)",
+                "value": "Glaucoma",
+                "count": 2,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Gynecologic Cancers (5)",
+                "value": "Gynecologic Cancers",
+                "count": 5,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Hand Care (85)",
+                "value": "Hand Care",
+                "count": 85,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Hand Surgery (17)",
+                "value": "Hand Surgery",
+                "count": 17,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Hand Therapy (22)",
+                "value": "Hand Therapy",
+                "count": 22,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Head Care (10)",
+                "value": "Head Care",
+                "count": 10,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Heart & Heart Surgery (94)",
+                "value": "Heart & Heart Surgery",
+                "count": 94,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Hematology (38)",
+                "value": "Hematology",
+                "count": 38,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Hip Care (197)",
+                "value": "Hip Care",
+                "count": 197,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Hip Replacement Surgery (16)",
+                "value": "Hip Replacement Surgery",
+                "count": 16,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Hospice and Palliative Medicine (20)",
+                "value": "Hospice and Palliative Medicine",
+                "count": 20,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Incontinence (19)",
+                "value": "Incontinence",
+                "count": 19,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Infectious Disease (17)",
+                "value": "Infectious Disease",
+                "count": 17,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Integrative Medicine (5)",
+                "value": "Integrative Medicine",
+                "count": 5,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Interventional Cardiology (8)",
+                "value": "Interventional Cardiology",
+                "count": 8,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Joint Care (21)",
+                "value": "Joint Care",
+                "count": 21,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Kidney Health (22)",
+                "value": "Kidney Health",
+                "count": 22,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Knee Care (204)",
+                "value": "Knee Care",
+                "count": 204,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Knee Ligament Injury (185)",
+                "value": "Knee Ligament Injury",
+                "count": 185,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Knee Replacement Surgery (17)",
+                "value": "Knee Replacement Surgery",
+                "count": 17,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Lung Health (46)",
+                "value": "Lung Health",
+                "count": 46,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Maternal & Fetal Medicine (15)",
+                "value": "Maternal & Fetal Medicine",
+                "count": 15,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Medication Therapy Management (15)",
+                "value": "Medication Therapy Management",
+                "count": 15,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Mental Health (227)",
+                "value": "Mental Health",
+                "count": 227,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Midwives (51)",
+                "value": "Midwives",
+                "count": 51,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Mohs Surgery (5)",
+                "value": "Mohs Surgery",
+                "count": 5,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Neck and Back Care (179)",
+                "value": "Neck and Back Care",
+                "count": 179,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Neck and Back Strengthening Program (11)",
+                "value": "Neck and Back Strengthening Program",
+                "count": 11,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Neuro-Ophthalmology (1)",
+                "value": "Neuro-Ophthalmology",
+                "count": 1,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Neurologists & Neuropsychologists (50)",
+                "value": "Neurologists & Neuropsychologists",
+                "count": 50,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Neuropsychology (5)",
+                "value": "Neuropsychology",
+                "count": 5,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Neuroradiology (1)",
+                "value": "Neuroradiology",
+                "count": 1,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Neurosciences (73)",
+                "value": "Neurosciences",
+                "count": 73,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Neurosurgeons (28)",
+                "value": "Neurosurgeons",
+                "count": 28,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Obstetrics & Gynecology Specialists (152)",
+                "value": "Obstetrics & Gynecology Specialists",
+                "count": 152,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Occupational Medicine (14)",
+                "value": "Occupational Medicine",
+                "count": 14,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Occupational Therapy (53)",
+                "value": "Occupational Therapy",
+                "count": 53,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Ophthalmic Plastic & Reconstructive Surgery (1)",
+                "value": "Ophthalmic Plastic & Reconstructive Surgery",
+                "count": 1,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Ophthalmic Surgery (14)",
+                "value": "Ophthalmic Surgery",
+                "count": 14,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Ophthalmology (28)",
+                "value": "Ophthalmology",
+                "count": 28,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Oral & Maxillofacial Surgery (4)",
+                "value": "Oral & Maxillofacial Surgery",
+                "count": 4,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Orthobiologics (3)",
+                "value": "Orthobiologics",
+                "count": 3,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Orthodontics (1)",
+                "value": "Orthodontics",
+                "count": 1,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Orthopedic Surgery (59)",
+                "value": "Orthopedic Surgery",
+                "count": 59,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Orthopedic Urgent Care (22)",
+                "value": "Orthopedic Urgent Care",
+                "count": 22,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Orthopedics (108)",
+                "value": "Orthopedics",
+                "count": 108,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Osteoarthritis (59)",
+                "value": "Osteoarthritis",
+                "count": 59,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Pain Management (17)",
+                "value": "Pain Management",
+                "count": 17,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Pain Specialists (56)",
+                "value": "Pain Specialists",
+                "count": 56,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Patellofemoral Program (5)",
+                "value": "Patellofemoral Program",
+                "count": 5,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Pathology (6)",
+                "value": "Pathology",
+                "count": 6,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Pediatric Dentistry (3)",
+                "value": "Pediatric Dentistry",
+                "count": 3,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Pediatric Dermatology (1)",
+                "value": "Pediatric Dermatology",
+                "count": 1,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Pediatric Endocrinology (5)",
+                "value": "Pediatric Endocrinology",
+                "count": 5,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Pediatric Ophthalmology (3)",
+                "value": "Pediatric Ophthalmology",
+                "count": 3,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Pediatric Otolaryngology (1)",
+                "value": "Pediatric Otolaryngology",
+                "count": 1,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Pediatric Sports Medicine (1)",
+                "value": "Pediatric Sports Medicine",
+                "count": 1,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Pelvic Health (214)",
+                "value": "Pelvic Health",
+                "count": 214,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Performing Arts Program (3)",
+                "value": "Performing Arts Program",
+                "count": 3,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Periodontics (2)",
+                "value": "Periodontics",
+                "count": 2,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Physical Medicine & Rehabilitation (18)",
+                "value": "Physical Medicine & Rehabilitation",
+                "count": 18,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Physical Therapy (223)",
+                "value": "Physical Therapy",
+                "count": 223,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Pilates Program (22)",
+                "value": "Pilates Program",
+                "count": 22,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Plastic & Reconstructive Surgery (2)",
+                "value": "Plastic & Reconstructive Surgery",
+                "count": 2,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Plastic Surgery (20)",
+                "value": "Plastic Surgery",
+                "count": 20,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Podiatry (17)",
+                "value": "Podiatry",
+                "count": 17,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Pregnancy (172)",
+                "value": "Pregnancy",
+                "count": 172,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Primary Care - Eye (33)",
+                "value": "Primary Care - Eye",
+                "count": 33,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Primary Care - Family Medicine (321)",
+                "value": "Primary Care - Family Medicine",
+                "count": 321,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Primary Care - Internal Medicine (129)",
+                "value": "Primary Care - Internal Medicine",
+                "count": 129,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Primary Care - Kid's Health (450)",
+                "value": "Primary Care - Kid's Health",
+                "count": 450,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Primary Care - Med-Peds (36)",
+                "value": "Primary Care - Med-Peds",
+                "count": 36,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Primary Care - Men's Health (450)",
+                "value": "Primary Care - Men's Health",
+                "count": 450,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Primary Care - Mental Health (649)",
+                "value": "Primary Care - Mental Health",
+                "count": 649,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Primary Care - Nurse Practitioners (81)",
+                "value": "Primary Care - Nurse Practitioners",
+                "count": 81,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Primary Care - Pediatricians (129)",
+                "value": "Primary Care - Pediatricians",
+                "count": 129,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Primary Care - Skin Health (650)",
+                "value": "Primary Care - Skin Health",
+                "count": 650,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Primary Care - Women's Health (549)",
+                "value": "Primary Care - Women's Health",
+                "count": 549,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Prostate Cancer Treatment (86)",
+                "value": "Prostate Cancer Treatment",
+                "count": 86,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Prosthodontics (2)",
+                "value": "Prosthodontics",
+                "count": 2,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Psychiatry (41)",
+                "value": "Psychiatry",
+                "count": 41,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Psychologists (84)",
+                "value": "Psychologists",
+                "count": 84,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Radiology (43)",
+                "value": "Radiology",
+                "count": 43,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Refractive Surgery (2)",
+                "value": "Refractive Surgery",
+                "count": 2,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Rehabilitation Therapy (327)",
+                "value": "Rehabilitation Therapy",
+                "count": 327,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Retina Specialists (5)",
+                "value": "Retina Specialists",
+                "count": 5,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Return to Soccer (17)",
+                "value": "Return to Soccer",
+                "count": 17,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Return to Throwing (31)",
+                "value": "Return to Throwing",
+                "count": 31,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Rheumatology (24)",
+                "value": "Rheumatology",
+                "count": 24,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Rotator Cuff Tear (189)",
+                "value": "Rotator Cuff Tear",
+                "count": 189,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Running Program (26)",
+                "value": "Running Program",
+                "count": 26,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Screening Colonoscopies (23)",
+                "value": "Screening Colonoscopies",
+                "count": 23,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Sexual Medicine (8)",
+                "value": "Sexual Medicine",
+                "count": 8,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Shoulder Care (70)",
+                "value": "Shoulder Care",
+                "count": 70,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Shoulder Replacement Surgery (3)",
+                "value": "Shoulder Replacement Surgery",
+                "count": 3,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Sleep Specialists (39)",
+                "value": "Sleep Specialists",
+                "count": 39,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Social Workers (72)",
+                "value": "Social Workers",
+                "count": 72,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Speech Therapy (32)",
+                "value": "Speech Therapy",
+                "count": 32,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Spinal Cord Injury (8)",
+                "value": "Spinal Cord Injury",
+                "count": 8,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Spine Care (17)",
+                "value": "Spine Care",
+                "count": 17,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Spine Surgery (28)",
+                "value": "Spine Surgery",
+                "count": 28,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Sports Medicine (32)",
+                "value": "Sports Medicine",
+                "count": 32,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Surgery (76)",
+                "value": "Surgery",
+                "count": 76,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Surgical Oncology (21)",
+                "value": "Surgical Oncology",
+                "count": 21,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "TMD (2)",
+                "value": "TMD",
+                "count": 2,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "TRIA L.E.A.P. (2)",
+                "value": "TRIA L.E.A.P.",
+                "count": 2,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Travel & Tropical Medicine (12)",
+                "value": "Travel & Tropical Medicine",
+                "count": 12,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Trigger Finger Treatment (68)",
+                "value": "Trigger Finger Treatment",
+                "count": 68,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Urgent Care (189)",
+                "value": "Urgent Care",
+                "count": 189,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Urogynecology (9)",
+                "value": "Urogynecology",
+                "count": 9,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Urology (39)",
+                "value": "Urology",
+                "count": 39,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Vascular & Veins (17)",
+                "value": "Vascular & Veins",
+                "count": 17,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Vascular Surgery (11)",
+                "value": "Vascular Surgery",
+                "count": 11,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Vestibular Therapy (48)",
+                "value": "Vestibular Therapy",
+                "count": 48,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Vitreoretinal Surgery (1)",
+                "value": "Vitreoretinal Surgery",
+                "count": 1,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Women's Sports Medicine (7)",
+                "value": "Women's Sports Medicine",
+                "count": 7,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Wound Care (2)",
+                "value": "Wound Care",
+                "count": 2,
+                "definedOrder": 2147483647
+            },
+            {
+                "name": "Wrist and Hand Care (82)",
+                "value": "Wrist and Hand Care",
+                "count": 82,
+                "definedOrder": 2147483647
+            }
+        ],
+        "genders": [
+            {
+                "name": "Female",
+                "value": "F",
+                "count": 1761,
+                "definedOrder": 0
+            },
+            {
+                "name": "Male",
+                "value": "M",
+                "count": 935,
+                "definedOrder": 1
+            },
+            {
+                "name": "Non-binary or choose not to say",
+                "value": "U",
+                "count": 1,
+                "definedOrder": 2
+            }
+        ],
+        "schedulingNewPatients": [
+            {
+                "name": "Scheduling new patients only",
+                "value": "true",
+                "count": 0,
+                "definedOrder": 0
+            }
+        ],
+        "locations": [],
+        "minisiteExpertises": []
+    },
+    "miniSiteLocationOptions": null,
+    "lat": 45.2365,
+    "lng": -92.2749,
+    "where": "Clear Lake, Wisconsin 54005, United States",
+    "distance": 75,
+    "sort": "dist",
+    "miniSiteTag": null,
+    "miniSiteUrl": null,
+    "isPersonCardTriggerableExpertiseSearch": false
+}
