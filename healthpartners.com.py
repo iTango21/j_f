@@ -11,6 +11,16 @@ import json
 #     print(i['name']['cred'])
 #     breakpoint()
 
+with open('hos.json', 'r', encoding='utf-8') as set_:
+    data_ = json.load(set_)
+
+print(len(data_['results']))
+
+for i in data_['results']:
+    print(i['address']['zip'])
+
+    breakpoint()
+
 # pip install free-proxy
 from fp.fp import FreeProxy
 
@@ -213,11 +223,17 @@ while offset < totalCount:
     for i in data_['results']:
         arr_p.append(
             {
+                "carrier": "HealthPartners",
+                "carrierId": "HPY000043C",
                 "id": i['id'],
                 "npi": i['npi'],
                 "type": i['type'],
+                "firstName": i['name']['first'],
+                "middleName": i['name']['middle'],
+                "lastName": i['name']['last'],
                 "fullName": i['name']['fullName'],
-                "cred": i['name']['cred']
+                "cred": i['name']['cred'],
+                "genderName": i['genderName']
             }
         )
 
@@ -229,3 +245,4 @@ with open('_h.json', 'w+', encoding='utf-8') as file:
 
 # https://www.healthpartners.com/care/find/location/primary-care-clinics/amery-hospital-and-clinic/clear-lake/
 # https://www.healthpartners.com/care/find/doctors/?where=Clear+Lake%2C+Wisconsin+54005%2C+United+States&latLong=45.251907%2C-92.2713&sort=dist&page=2&dist=75
+# https://www.healthpartners.com/care/find/doctor/199990/
